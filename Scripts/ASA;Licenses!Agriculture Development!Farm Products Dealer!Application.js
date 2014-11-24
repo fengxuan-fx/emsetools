@@ -1,0 +1,1 @@
+addFee("AGDV_FPD_S_A", "AGDV_FPD", "FINAL", parseInt(AInfo['Sales $']), "Y");

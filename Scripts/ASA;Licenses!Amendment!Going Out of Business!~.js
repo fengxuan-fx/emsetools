@@ -1,0 +1,1 @@
+showMessage = true;gp = getParent();logDebug(gp);showDebug = 3;if (appMatch("Licenses/Agricultural Development/Farm Products Dealer/License",AInfo['Parent Record ID'])) {	addAdHocTask("WFADHOC_PROCESS", "Security Release Review","","",AInfo['Parent Record ID']);	}

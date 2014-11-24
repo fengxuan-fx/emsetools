@@ -1,0 +1,3 @@
+function aaa(){
+	addfee("fee");
+}
