@@ -1,2 +1,0 @@
-showDebug=false;
-showMessage=false;
