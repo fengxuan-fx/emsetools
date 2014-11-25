@@ -53,7 +53,7 @@ if (SA) {
 	eval(getScriptText(SAScript,SA));
 	}
 else {
-	eval(getScriptText("INCLUDES_ACCELA_FUNCTIONS"));
+	eval(getScriptText(INCLUDES_ACCELA_FUNCTIONS"))
 	}
 	
 eval(getScriptText("INCLUDES_CUSTOM"));
