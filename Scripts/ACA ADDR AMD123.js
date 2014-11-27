@@ -31,7 +31,7 @@ var message =	"";							// Message String
 var debug = "";								// Debug String
 var br = "<BR>";							// Break Tag
 
-/////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////EMsetool Management
 var showMessage = false;						// Set to true to see results in popup window
 var showDebug = false;							// Set to true to see debug messages in popup window
 var useAppSpecificGroupName = false;			// Use Group name when populating App Specific Info Values
